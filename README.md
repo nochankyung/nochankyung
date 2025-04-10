@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### 안녕하세요! 저는 Front-End Developer를 꿈꾸는 노찬경입니다!
-
 - Education
 
   - [인하대학교](https://www.inha.ac.kr/kr/index.do) [컴퓨터공학과](https://cse.inha.ac.kr/cse/index.do) 재학중(19학번)
